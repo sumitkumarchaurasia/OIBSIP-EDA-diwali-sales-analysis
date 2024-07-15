@@ -23,11 +23,11 @@ The dataset contains information on sales transactions during the Diwali season.
 Requirements
 To perform the EDA, you will need the following software and libraries:
 
-Python 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python, 
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 Jupyter Notebook (optional but recommended)
 You can install the required libraries using pip:
 pip install pandas numpy matplotlib seaborn jupyter
